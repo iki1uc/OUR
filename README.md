@@ -1,30 +1,58 @@
-# 4u – Response Layer 7 (iki1uc)
+# OUR — Layer 0 Kernstruktur (iki1uc)
 
-4u ist die 7. Response-Ebene im iki1uc-System.
-Sie ersetzt die alte RESPO-Achse durch ein neues, systemisches Modell:
+OUR ist die Ausgangsebene für gemeinsame Struktur.  
+Es bildet den Nullpunkt, an dem alle Module andocken.
 
-OK / NOK / FLOW / BREAK / ECHO / VOID / ROOT
+---
 
-4u verbindet:
-- PX-TRIO (PX3 / PX6 / PX9)
-- PX12 / PX4 (Fusion + Achse)
-- SYS / SYS-x (System + Kreuzung)
-- 2me (Mirror-Return)
-- TEM (Zeit)
-- UI-SCANNER (Interface)
+## Zweck
 
------------------------------------------
-# FUNKTION
+OUR stellt die Basis bereit, auf der weitere Elemente entstehen.  
+Es ist kein Ergebnis, keine Reaktion, keine Führung.  
+Es ist der gemeinsame Ursprung.
 
-respo.OK     → Zustimmung  
-respo.NOK    → Ablehnung  
-respo.FLOW   → System fließt  
-respo.BREAK  → System bricht  
-respo.ECHO   → Spiegelung  
-respo.VOID   → Neutral  
-respo.ROOT   → Rückkehr
+---
 
------------------------------------------
-# STATUS
+## Struktur
 
-4u ist aktiv, eigenständig und vollständig iki1uc.
+- ID.html — Signatur der OUR‑Ebene  
+- index.html — Anzeige der Kernform  
+- README.md — Beschreibung der Ausgangsebene
+
+---
+
+## Prinzip
+
+OUR folgt dem Nullpunkt‑Prinzip:
+
+Start → Form → Übergang
+
+Es besitzt keine Transformation wie ICE (C F E).  
+Es dient als Ausgangsfläche für Module wie:
+
+- [ICE](ca://s?q=ICE_Element_definieren)  
+- [4u](ca://s?q=4u_Element_erklaeren)  
+- [AQUA](ca://s?q=AQUA_Element_System_aktivieren)
+
+---
+
+## Verbindung
+
+OUR ist die Basis für:
+
+- ATOM  
+- VECTOR  
+- USER  
+- ICE  
+- 4u  
+- AQUA  
+
+Es stellt die Fläche bereit, auf der diese Elemente arbeiten.
+
+---
+
+## Status
+
+OUR ist aktiv, sobald die Ebene geladen wird.  
+Es besitzt keine eigene Pipeline.  
+Es dient als Ausgangspunkt für alle weiteren Schritte.
